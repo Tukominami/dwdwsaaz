@@ -26,7 +26,7 @@
         vView.backgroundColor =[UIColor brownColor];
         [self.view addSubview:vView];
     }
-    NSLog(@"同步");
+   
 }
 
 - (void)didReceiveMemoryWarning {
